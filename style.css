@@ -1,0 +1,23 @@
+h1 {
+  font-family:'Anton', sans-serif;
+  color:orange
+  font-size:100px
+}
+p {
+  font-family:'Anton', sans-serif;
+          color:green;
+          font-size:50px;
+          text-decoration: underline;
+          font-style: bold;
+          font-weight: lighter;
+  }
+  #topshop-link {
+  color:red;
+  }
+a {
+  font-family:'Anton', sans-serif;
+  color: orange
+}
+ #second {
+  color:red;
+ }
